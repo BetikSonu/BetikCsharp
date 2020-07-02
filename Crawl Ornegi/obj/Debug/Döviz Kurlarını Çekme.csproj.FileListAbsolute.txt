@@ -1,0 +1,10 @@
+C:\Users\Yüksel\Desktop\C# Dosyalarım\Döviz Kurlarını Çekme\bin\Debug\Döviz Kurlarını Çekme.exe.config
+C:\Users\Yüksel\Desktop\C# Dosyalarım\Döviz Kurlarını Çekme\bin\Debug\Döviz Kurlarını Çekme.exe
+C:\Users\Yüksel\Desktop\C# Dosyalarım\Döviz Kurlarını Çekme\bin\Debug\Döviz Kurlarını Çekme.pdb
+C:\Users\Yüksel\Desktop\C# Dosyalarım\Döviz Kurlarını Çekme\obj\Debug\Döviz Kurlarını Çekme.csprojAssemblyReference.cache
+C:\Users\Yüksel\Desktop\C# Dosyalarım\Döviz Kurlarını Çekme\obj\Debug\Döviz_Kurlarını_Çekme.Form1.resources
+C:\Users\Yüksel\Desktop\C# Dosyalarım\Döviz Kurlarını Çekme\obj\Debug\Döviz_Kurlarını_Çekme.Properties.Resources.resources
+C:\Users\Yüksel\Desktop\C# Dosyalarım\Döviz Kurlarını Çekme\obj\Debug\Döviz Kurlarını Çekme.csproj.GenerateResource.cache
+C:\Users\Yüksel\Desktop\C# Dosyalarım\Döviz Kurlarını Çekme\obj\Debug\Döviz Kurlarını Çekme.csproj.CoreCompileInputs.cache
+C:\Users\Yüksel\Desktop\C# Dosyalarım\Döviz Kurlarını Çekme\obj\Debug\Döviz Kurlarını Çekme.exe
+C:\Users\Yüksel\Desktop\C# Dosyalarım\Döviz Kurlarını Çekme\obj\Debug\Döviz Kurlarını Çekme.pdb
